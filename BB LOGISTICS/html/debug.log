@@ -1,0 +1,43 @@
+[1220/174516.904:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/215658.128:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1222/144406.254:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/201240.528:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201240.536:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201240.405:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201239.951:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201240.121:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201240.531:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201240.460:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 10868 not found in process
+[1224/201240.232:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201241.195:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 13516 not found in process
+[1224/201239.950:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201239.955:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 14332 not found in process
+[1224/201241.805:ERROR:exception_snapshot_win.cc(99)] thread ID 7892 not found in process
+[1224/201241.805:ERROR:exception_snapshot_win.cc(99)] thread ID 7692 not found in process
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 8912 not found in process
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 14800 not found in process
+[1224/201240.404:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 12708 not found in process
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 14492 not found in process
+[1224/201240.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 15684 not found in process
+[1224/201240.366:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 3036 not found in process
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 15008 not found in process
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 1200 not found in process
+[1224/201241.806:ERROR:exception_snapshot_win.cc(99)] thread ID 200 not found in process
+[1224/201241.809:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.808:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.809:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.809:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.809:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.809:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.809:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.808:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.808:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.808:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.809:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1224/201241.808:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)

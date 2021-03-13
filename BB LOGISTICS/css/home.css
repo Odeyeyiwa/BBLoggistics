@@ -1,0 +1,274 @@
+header,nav,section,footer{
+						display:block;
+						border:2px solid black;
+					}
+					
+					/* div{ */
+						/* border:1px solid red; */
+						/* } */
+					header,nav{
+						height:40px;
+					}
+					header{
+						position:sticky;top:0px;
+						background-color:rgba(131,183,245,0.5);
+					}
+					#banner{
+						height:650px;
+						background-image:url("../images/logistic5.png");
+						background-size:cover;
+						background-repeat:no-repeat;
+						
+					}
+					footer{
+						height:350px;
+					}
+					@fontface{
+						font family:Halima;
+						scr:url("../font/cabin-bolditalic-webfont.woff") format("woff");
+						scr:url("../font/rubik-regular-webfont.woff2") format("woff2");
+					}
+					p{
+						font-family:Halima, sans-serif;
+						color: rgb(31,31,31);
+					}
+					h1 h2 h3{	font-family:Halima, sans-serif;
+						color: rgb(31,31,31);
+					}
+					.foot{
+						display:block;
+					}
+					.links,.address,.newsletter{
+						width:33%;
+						height:348px;
+						float:left;
+					}
+					.links{
+						padding:50px;
+						line-height:1.5;
+						text-align:center;
+						margin:auto;
+					}
+					input{
+						border:2px solid rgb(131,183,245);
+					}
+					select{
+						border:2px solid rgb(131,183,245);
+					}
+					#partners{
+						height:200px;
+						text-align:center;
+						
+					}
+					section{
+						height:250px;
+					}
+					.testimony1,.testimony2,.testimony3{
+						width:33%;
+						height:230px;
+						float:left;
+					}
+					#calculate{
+						height:150px;
+						padding-top:50px;
+						text-align:center;
+						/* padding-right:320px; */
+					}
+					.add{
+						height:40px;
+						width:45%;
+					}
+					.state{
+						height:40px;
+						width:24%;
+					}
+					.button{
+						height:40px;
+						width:20%;
+					}
+					#track{
+						height:150px;
+						text-align:center;
+						padding-top:50px;
+					}
+					.track02{
+						height:50px;
+						width:65%;
+					}
+					.butt{
+						height:50px;
+						width:25%;
+					}
+					#services{
+						height:450px;
+					}
+					.pic1,.pic2,.pic3{
+						width:30%;
+						height:148px;
+						float:left;
+						padding:10px;
+					}
+					.text1,.text2,.text3{
+						width:30%;
+						height:148px;
+						float:left;
+						padding:10px;
+					}
+					h2{
+						display:inline-block;
+						margin:0px;
+						padding:10px;
+						padding-bottom:0px;
+					}
+				
+					.quote,.career{
+					float:right;
+					padding-left:30px;
+					margin-bottom:0px;
+					padding:10px;
+					padding-bottom:0px;
+					}
+					a{
+						text-decoration:none;
+						font-weight:bold;
+						color:black;
+					}
+					a:hover{
+						background-color:grey;
+					}
+					li{
+						
+						padding-right:60px;
+						display:inline-block;
+						margin-top:10px;
+					}
+					ul{
+						text-align:center;
+					}
+					.partners{
+						text-decoration:overline; 
+					
+					}
+					
+														/* OUR SERVICES */
+														
+					#banner2{
+						height:500px;
+						background-image:url("../images/ban3.png");
+						background-size:cover;
+						background-repeat:no-repeat;
+					
+					}
+					
+					
+					
+					
+					
+					
+														/* About Us */
+														
+					#banner3{
+						height:400px;
+						background-image:url("../images/bigbanner.jpg");
+						background-size:cover;
+						background-repeat:no-repeat;
+					}
+					
+					
+					
+					
+														/* contact us */
+														
+					#banner4{
+						height:400px;
+						background-image:url("../images/ban2.png");
+						background-size:cover;
+						background-repeat:no-repeat;
+					}
+					.contactus{
+						text-align:center;
+						/* width:70%; */
+					}
+								
+
+
+
+
+
+
+														/* register */
+
+
+					#banner5{
+						height:400px;
+						background-image:url("../images/ban3.png");
+						background-size:cover;
+						background-repeat:no-repeat;
+					}
+					#form{
+						
+						height:700px;
+					}
+					tr td{
+						width:600px;
+						height:50px;
+					}	
+					form{
+						padding-left:350px;
+					}
+										
+										
+										
+										
+													/* log in */
+										
+										
+										
+					#banner6{
+						height:300px;
+						background-image:url("../images/ban2.png");
+						background-size:cover;
+						background-repeat:no-repeat;
+						
+					}
+					#login{
+						height:250px;
+						text-align:center;
+						padding-top:50px;					
+					}
+					.entere{
+						height:30px;
+						width:50%;
+					}
+					.enterp{
+						height:30px;
+						width:50%;
+					}
+					.log{
+						height:30px;
+						width:25%;
+						text-align:center
+					}
+					
+					
+					
+					
+					
+					
+					
+													/* quote */
+					
+					
+					#banner8{
+						height:600px;
+						width:68%;
+						background-image:url("../images/logistic2.png");
+						background-size:cover;
+						background-repeat:no-repeat;
+						}
+					#quotee{
+					position:absolute;right:50px;
+					text-align:center;
+					}
+					
+						
